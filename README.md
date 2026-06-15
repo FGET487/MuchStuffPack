@@ -100,7 +100,12 @@ Board Game · and much more…
 
 ## 📸 Screenshots
 
-<!-- Screenshots are added in the screenshots/ folder. -->
+| | |
+|:---:|:---:|
+| ![Viking watchtower](screenshots/01-viking-watchtower.jpg) | ![Bathhouse interior](screenshots/02-bathhouse.jpg) |
+| *Medieval watchtower & village* | *Cozy bathhouse interior* |
+| ![Bunker with cannons](screenshots/03-bunker-cannon.jpg) | ![New items & resources](screenshots/04-items-and-resources.png) |
+| *Post‑apocalyptic bunker & defenses* | *A taste of the new items & resources* |
 
 ## 🧰 Requirements & notes
 
