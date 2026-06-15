@@ -14,6 +14,15 @@
 
 ---
 
+## 📸 Screenshots
+
+| | |
+|:---:|:---:|
+| ![Viking watchtower](screenshots/01-viking-watchtower.jpg) | ![Bathhouse interior](screenshots/02-bathhouse.jpg) |
+| *Medieval watchtower & village* | *Cozy bathhouse interior* |
+| ![Bunker with cannons](screenshots/03-bunker-cannon.jpg) | ![New items & resources](screenshots/04-items-and-resources.png) |
+| *Post‑apocalyptic bunker & defenses* | *A taste of the new items & resources* |
+
 ## About
 
 **MuchStuffPack** is meant to be a deep, complex alternative to the famous
@@ -97,15 +106,6 @@ Glass · Chicken Kottu · French Croissant · and more…
 Worn Couch · Basic & Ceramic Flowers · Garden Plant Statue · House Plant ·
 Purple Flower · Tropical Plant · Cat Painting · Pup Painting · Big Wooden Table ·
 Board Game · and much more…
-
-## 📸 Screenshots
-
-| | |
-|:---:|:---:|
-| ![Viking watchtower](screenshots/01-viking-watchtower.jpg) | ![Bathhouse interior](screenshots/02-bathhouse.jpg) |
-| *Medieval watchtower & village* | *Cozy bathhouse interior* |
-| ![Bunker with cannons](screenshots/03-bunker-cannon.jpg) | ![New items & resources](screenshots/04-items-and-resources.png) |
-| *Post‑apocalyptic bunker & defenses* | *A taste of the new items & resources* |
 
 ## 🧰 Requirements & notes
 
