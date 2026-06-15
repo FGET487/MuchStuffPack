@@ -49,6 +49,16 @@ keep the mod running with new ARK: Survival Ascended / Unreal Engine versions. :
 | ![Bunker with cannons](screenshots/03-bunker-cannon.jpg) | ![New items & resources](screenshots/04-items-and-resources.png) |
 | *Post‑apocalyptic bunker & defenses* | *A taste of the new items & resources* |
 
+## 💛 Special Thanks
+
+A huge, heartfelt **thank you** to **Misery**, **Kataya** and **Dingo** — who
+have been there almost since the very beginning of this project and still
+provide support to this day. It truly means a lot. 🙏
+
+A big thank you as well to our community **Sherpas** for their extensive tips,
+tricks and data sheets: **Bubu**, **Unknown Alien (Istasha)** and
+**RebelWeasel**.
+
 ## 🔗 Links
 
 | | |
