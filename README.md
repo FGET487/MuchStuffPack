@@ -74,7 +74,7 @@ tricks and data sheets: **Bubu**, **Unknown Alien (Istasha)** and
 The complete mod content (~10 GB of Unreal Engine assets) is too large to host
 directly on GitHub, so the files are provided via Google Drive:
 
-**➡️ Download (Google Drive): `PASTE-YOUR-GOOGLE-DRIVE-LINK-HERE`**
+**➡️ [Download from Google Drive](https://drive.google.com/file/d/1nKlXqXdOKGpq0kg3AtAtmr5Ohw4eW_IK/view?usp=sharing)**
 
 You can also get the mod directly through CurseForge / the in‑game mod browser
 using **Mod ID `933785`**.
