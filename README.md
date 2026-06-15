@@ -14,15 +14,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| | |
-|:---:|:---:|
-| ![Viking watchtower](screenshots/01-viking-watchtower.jpg) | ![Bathhouse interior](screenshots/02-bathhouse.jpg) |
-| *Medieval watchtower & village* | *Cozy bathhouse interior* |
-| ![Bunker with cannons](screenshots/03-bunker-cannon.jpg) | ![New items & resources](screenshots/04-items-and-resources.png) |
-| *Post‑apocalyptic bunker & defenses* | *A taste of the new items & resources* |
-
 ## About
 
 **MuchStuffPack** is meant to be a deep, complex alternative to the famous
@@ -38,6 +29,25 @@ shopping tent.
 
 A full, always‑up‑to‑date list of content lives on the **Discord** — this page
 only shows a summary.
+
+### 🌱 Now open source
+
+MuchStuffPack is now **open source**! I no longer have as much time to develop
+it as I'd like, so I want to give the community the chance to carry the project
+forward however they wish — feel free to fork it, build on it and make it your
+own (within the terms of the **CC BY‑NC‑SA 4.0** license).
+
+Don't worry, though: I'll still ship **maintenance & compatibility updates** to
+keep the mod running with new ARK: Survival Ascended / Unreal Engine versions. :)
+
+## 📸 Screenshots
+
+| | |
+|:---:|:---:|
+| ![Viking watchtower](screenshots/01-viking-watchtower.jpg) | ![Bathhouse interior](screenshots/02-bathhouse.jpg) |
+| *Medieval watchtower & village* | *Cozy bathhouse interior* |
+| ![Bunker with cannons](screenshots/03-bunker-cannon.jpg) | ![New items & resources](screenshots/04-items-and-resources.png) |
+| *Post‑apocalyptic bunker & defenses* | *A taste of the new items & resources* |
 
 ## 🔗 Links
 
